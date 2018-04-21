@@ -8,7 +8,6 @@ Please find my resume [here](Resume_SuryaTejaD.pdf) and  CV [here](Resume_SuryaT
 
 ### Publications
 
-
 ### Contact me
 
 [suryatejadev@cs.umass.edu](mailto:suryatejadev@cs.umass.edu)
