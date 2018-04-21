@@ -11,4 +11,4 @@ Please find my resume [here](Resume_SuryaTejaD.pdf) and  CV [here](Resume_SuryaT
 
 ### Contact me
 
-[email@domain.com](mailto:suryatejadev@cs.umass.edu)
+[suryatejadev@cs.umass.edu](mailto:suryatejadev@cs.umass.edu)
