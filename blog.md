@@ -6,7 +6,7 @@ permalink: /blog/
 
 ## Tutorials
 1. CV architectures
-  - [UNet](https://suryatejadev.github.io/)
+  - [UNet](https://github.com/suryatejadev/tutorials/blob/master/unet/unet.ipynb)
   - [FCN](https://suryatejadev.github.io/)
   - [Dilated Densenet](https://suryatejadev.github.io/)
 
