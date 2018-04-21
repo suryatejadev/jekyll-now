@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+theme: jekyll-theme-midnight
 
 # Name of your site (displayed in the header)
 name: Surya Teja Devarakonda
@@ -81,4 +82,3 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-midnight
