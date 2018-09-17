@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Hi, I'm Surya
 ---
 
-I am pursuing my Master's in Computer Science at UMass Amherst. I work on applied machine learning and blog about the same.  
-I am interested in solving real life problems using machine learning and deep learning techniques, especially in the areas of data science in health care, computer vision and the internet of things. I have been working on several projects for the past two years to develop my skills in the same. I am also a tech enthusiast, constantly trying to keep myself updated with the developments in technology, which is one of the primary factors that developed my interest in data science. In my leisure time, I enjoy reading fictional and non-fictional books, browsing through sites like KD Nuggets, Medium, Quora etc.
+<img align="right" width="100" height="100" src="images/profile-pic.jpg">
 
-### Contact me
-[suryatejadev@cs.umass.edu](mailto:suryatejadev@cs.umass.edu)
+I am presently a 2nd year Master's student in the Computer Science department at UMass Amherst. I am primarily interested in the areas of deep learning, computer vision, natural laanguage processing and reinforcement learning. 
+
+Previously, I graduated from IIT Hyderabad with a B.Tech (Honors) degree in Electrical Engineering. During my final year, I worked in the Immersive Multimedia lab of Prof. Sowmya Jana on deep learing approaches for abnormality detection in retinal OCT images. 
+
+during the summer of 2018, I worked as a Computer Vision intern in the X-Ray division of GE Healthcare at Waukesha, Wisconsin under the guidance of [Gireesha Rao](https://www.linkedin.com/in/gireesha-rao-05831a2).  
+
+I will be graduating in May 2019, and I am presently looking for full time opportunities for that time. If there is a fit, do reach me out at [suryatejadev@cs.umass.edu](mailto:suryatejadev@cs.umass.edu). 
+
+Please find my resume here and my CV here.  
+
+Some of my recent papers are listed here. 
+
+ 
+

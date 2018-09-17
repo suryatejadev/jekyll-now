@@ -7,14 +7,6 @@ permalink: /resume/
 You can find my Resume [here](docs/resume.pdf) and CV [here](docs/cv.pdf)
 
 ### Education
-**M.S.** in *Computer Science*
-University of Massachusetts Amherst
-2017 - *Present*
-
-**B.Tech.** in *Electrical Engineering*
-Indian Institute of Technology Hyderabad
-2013-2017
-
 **University of Massachusetts Amherst** at Amherst, MA  
 *Master of Science* in COMPUTER SCIENCE | Fall 2017 - Present  
 - GPA                      : 4.0/4.0
