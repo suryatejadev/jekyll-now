@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<img align="right" width="100" height="100" src="images/profile-pic.jpg">
+<img style="float" align="right" width="300" height="500" src="images/profile-pic.jpg">
 
 I am presently a 2nd year Master's student in the Computer Science department at UMass Amherst. I am primarily interested in the areas of deep learning, computer vision, natural laanguage processing and reinforcement learning. 
 
