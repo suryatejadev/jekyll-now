@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Homepage/
+permalink: /
 ---
 
 <img style="float" align="right" width="200" height="250" src="images/profile-pic.jpg">
