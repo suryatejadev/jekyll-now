@@ -1,5 +1,5 @@
 ---
-<!-- layout: post -->
+layout: post
 ---
 
 <img style="float" align="right" width="200" height="250" src="images/profile-pic.jpg">
