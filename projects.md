@@ -7,9 +7,8 @@ permalink: /projects/
 This page contains brief overviews of the projects I have been working on.
 
 1. [**Thyroid Segmentation**](https://suryatejadev.github.io/thyroid_segmentation/) ([code](https://github.com/suryatejadev/thyroid_segmentation))  
-- Worked on detecting and characterizing thyroid nodules from ultrasound images using the TI-RADS ultrasound features.
-- Developed image segmentation models using Keras for the task using architectures like U-Nets, densenets, and dilated convolutions and achieved an average dice coefficient of 85%.
-- Done in collaboration with [Dr. Anthony Samir](https://scholar.harvard.edu/anthonysamir) of the MGH/MIT Center for Ultrasound Research and Translation (CURT) lab at the Massachusetts General Hospital (MGH), Boston.  
+- Worked on segmentation of thyroid nodules in ultrasound images. Dataset used: [Open-CAS Ultrasound Dataset](http://opencas.webarchiv.kit.edu/?q=node/29)
+- Developed models using Keras for the task employing architectures like U-Nets, densenets, and dilated convolutions and achieved an average dice coefficient of 85%.
 
 2. [**Medical Segmentation Decathlon 2018**](https://github.com/suryatejadev/medseg_decathlon) ([code](https://suryatejadev.github.io/medseg_decathlon/))  
 - This is my source code for the [Medical Segmentation Decathlon](http://medicaldecathlon.com/), a generalizable 3D segmentation challenge. The objective of the competition is to develop a single segmentation model that can segment images of 10 different organs, namely, liver, brain, hippocampus, lung, prostrate, cardiac, pancreas, colon, hepatic vessels and spleen.
