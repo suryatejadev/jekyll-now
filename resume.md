@@ -29,9 +29,9 @@ You can find my Resume [here](docs/resume.pdf) and CV [here](docs/cv.pdf)
 *Anjany Kumar Sekuboyina,* **Surya Teja Devarakonda,** *and Chandra Sekhar Seelamantula*  
 Proceedings of IEEE International Symposium on Biomedical Imaging (**ISBI**), 2017, (pp. 1057-1060).  
 
-
-    \textbf{Automated Detection of Retinal Disorders from OCT Images using Artificial Neural Network}
-    \href{https://ieeexplore.ieee.org/abstract/document/7838882/}{LINK}
-    \href{https://www.dropbox.com/s/rvrnnrgoj6z29ik/INDICON\%2016\%3A\%20Automated\%20Detection\%20of\%20Retinal\%20Disorders\%20from\%20OCT\%20Images\%20using\%20Artificial\%20Neural\%20Network.pdf?dl=0}{PDF} \\
-    \textit{\textbf{Surya Teja Devarakonda}, Kiran Kumar Vupparaboina, Ashutosh Richhariya, Jay Chhablani, and Soumya Jana} \\
-    India Conference (\textbf{INDICON}), 2016 IEEE Annual, pp. 1-6. IEEE, 2016.
+#### 2016
+- **Automated Detection of Retinal Disorders from OCT Images using Artificial Neural Network**
+[LINK](https://ieeexplore.ieee.org/abstract/document/7838882/) 
+[PDF](https://www.dropbox.com/s/rvrnnrgoj6z29ik/INDICON\%2016\%3A\%20Automated\%20Detection\%20of\%20Retinal\%20Disorders\%20from\%20OCT\%20Images\%20using\%20Artificial\%20Neural\%20Network.pdf?dl=0)  
+**Surya Teja Devarakonda,** *Kiran Kumar Vupparaboina, Ashutosh Richhariya, Jay Chhablani, and Soumya Jana*  
+India Conference (**INDICON**), 2016 IEEE Annual, pp. 1-6. IEEE, 2016.
