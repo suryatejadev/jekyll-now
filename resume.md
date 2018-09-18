@@ -9,15 +9,9 @@ You can find my Resume [here](docs/resume.pdf) and CV [here](docs/cv.pdf)
 ### Education
 **University of Massachusetts Amherst** at Amherst, MA  
 *Master of Science* in COMPUTER SCIENCE | Fall 2017 - Present  
-- GPA                      : 4.0/4.0
-- Expected Graduation date : May 2019
-- Courses                  : Neural Networks - A Modern Introduction, Reinforcement Learning, Algorithms for Data Science, Probabilistic Graphical Models, Database Design and Implementation, Natural Language Processing\*, Machine Learning\*, Computer Vision\*
 
 **India Institute of Technology Hyderabad** at Hyderabad, India  
 *Bachelor of Technology (Honors)* in ELECTRICAL ENGINEERING | Fall 2013 - Spring 2017
-- GPA                : 3.41/4.0
-- Key Courses        : Pattern Recognition and Machine Learning, Image and Video Processing, Advanced Digital Signal Processing, Adaptive Signal Processing, Data Science for Internet of Things, Data Analytics, Information Science, Random Processes, Multivariable Calculus
-- Humanities Courses : Macro Economics, Human Computer Interaction
 
 ### Publications
 #### 2018
@@ -27,4 +21,17 @@ You can find my Resume [here](docs/resume.pdf) and CV [here](docs/cv.pdf)
 *Kunal K. Dansingani, Kiran Kumar Vupparaboina,* ***Surya Teja Devarakonda,*** *Soumya Jana, Jay Chhablani, and K. Bailey Freund*
 **Scientific Reports (Nature)**, 2018, 8(1), p.12451. 
 
+#### 2017
+- **A Convolutional Neural Network Approach for Abnormality Detection in Wireless Capsule Endoscopy**  
+[LINK](https://ieeexplore.ieee.org/document/7950698/}) 
+[PDF](https:g/www.dropbox.com/s/hcm0u34kcagzfvs/ISBI2017\g3A%20A%20Convolutional%20Neural%20Network%20Approach%20for%20Abnormality%20Detection%20in%20Wireless%20Capsule%20Endoscopy%20images.pdf?dl=0) 
+[POSTER](https://www.dropbox.com/s/ntk0rxf7r5zt1dx/ISBI%2017%3A%20Poster.pdf?dl=0)  
+*Anjany Kumar Sekuboyina,* **Surya Teja Devarakonda,** *and Chandra Sekhar Seelamantula*  
+Proceedings of IEEE International Symposium on Biomedical Imaging (**ISBI**), 2017, (pp. 1057-1060).  
 
+
+    \textbf{Automated Detection of Retinal Disorders from OCT Images using Artificial Neural Network}
+    \href{https://ieeexplore.ieee.org/abstract/document/7838882/}{LINK}
+    \href{https://www.dropbox.com/s/rvrnnrgoj6z29ik/INDICON\%2016\%3A\%20Automated\%20Detection\%20of\%20Retinal\%20Disorders\%20from\%20OCT\%20Images\%20using\%20Artificial\%20Neural\%20Network.pdf?dl=0}{PDF} \\
+    \textit{\textbf{Surya Teja Devarakonda}, Kiran Kumar Vupparaboina, Ashutosh Richhariya, Jay Chhablani, and Soumya Jana} \\
+    India Conference (\textbf{INDICON}), 2016 IEEE Annual, pp. 1-6. IEEE, 2016.

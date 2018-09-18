@@ -15,8 +15,8 @@ description:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook: surya.teja.1232
+  email: suryatejadev@cs.umass.edu
+  facebook: 
   flickr:
   github: suryatejadev
   instagram:
@@ -28,7 +28,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   goodreads: user/show/62207328-surya-teja
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
