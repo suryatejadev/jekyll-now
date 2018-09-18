@@ -8,12 +8,12 @@ This page contains brief overviews of the projects I have been working on.
 
 1. [**Thyroid Segmentation**](https://suryatejadev.github.io/thyroid_segmentation/) ([code](https://github.com/suryatejadev/thyroid_segmentation))  
 - Worked on segmentation of thyroid nodules in ultrasound images. Dataset used: [Open-CAS Ultrasound Dataset](http://opencas.webarchiv.kit.edu/?q=node/29)
-- Developed models using Keras for the task employing architectures like U-Nets, densenets, and dilated convolutions and achieved an average dice coefficient of 85%.
+- Developed models using Keras for the task employing architectures like U-Nets, densenets, and dilated convolutions and achieved an average dice coefficient of 85%. <br/>  <br/>
 
 2. [**Medical Segmentation Decathlon 2018**](https://github.com/suryatejadev/medseg_decathlon) ([code](https://suryatejadev.github.io/medseg_decathlon/))  
 - This is my source code for the [Medical Segmentation Decathlon](http://medicaldecathlon.com/), a generalizable 3D segmentation challenge. The objective of the competition is to develop a single segmentation model that can segment images of 10 different organs, namely, liver, brain, hippocampus, lung, prostrate, cardiac, pancreas, colon, hepatic vessels and spleen.
 - My approach to this problem involved two steps. First, I trained a model to classify the organ of the input image. Using this output, I generated a conditional map, which is an image with the same intenstiy for all pixels. Each organ is assigned a specific intensity value. This map acts as a conditioning layer to the following segmentation model, and is appended to the input image. A multi-label segmentation model is then trained using the concatenated input image. 
-- All the models are implemented using Keras.  
+- All the models are implemented using Keras.<br/>
 
 3. [**Reinforcement Learning Agents**](https://github.com/suryatejadev/RL_agents) ([code](https://suryatejadev.github.io/RL_agents/))  
 - This code contains the Python implementations of two RL agents SARSA and Q-Learning, and the Mountain car environment.    
