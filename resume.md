@@ -8,17 +8,19 @@ You can find my Resume [here](docs/resume.pdf) and CV [here](docs/cv.pdf)
 
 ### Education
 **University of Massachusetts Amherst** at Amherst, MA  
-*Master of Science* in COMPUTER SCIENCE | Fall 2017 - Present  
+*Master of Science* in COMPUTER SCIENCE  
+Fall 2017 - Present  
 
 **India Institute of Technology Hyderabad** at Hyderabad, India  
-*Bachelor of Technology (Honors)* in ELECTRICAL ENGINEERING | Fall 2013 - Spring 2017
+*Bachelor of Technology (Honors)* in ELECTRICAL ENGINEERING  
+Fall 2013 - Spring 2017
 
 ### Publications
 #### 2018
 - **Amplitude-scan Classification using Artificial Neural Networks**  
 [LINK](https://www.nature.com/articles/s41598-018-31021-4) 
 [PDF](https://www.dropbox.com/s/hd5zad3u6u318xz/Scientific%20Reports%2018%3A%20Amplitude-scan%20classification%20using%20artificial%20neural%20networks.pdf?dl=0)  
-*Kunal K. Dansingani, Kiran Kumar Vupparaboina,* ***Surya Teja Devarakonda,*** *Soumya Jana, Jay Chhablani, and K. Bailey Freund*
+*Kunal K. Dansingani, Kiran Kumar Vupparaboina,* ***Surya Teja Devarakonda,*** *Soumya Jana, Jay Chhablani, and K. Bailey Freund*  
 **Scientific Reports (Nature)**, 2018, 8(1), p.12451. 
 
 #### 2017
