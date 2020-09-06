@@ -20,8 +20,8 @@ Aug 2013 - May 2017
 #### 2019
 - **FLARe: Forecasting by Learning Anticipated Representations**  
 [LINK](https://arxiv.org/abs/1904.08930)
-[PDF](http://proceedings.mlr.press/v106/devarakonda19a/devarakonda19a.pdf)
-**Surya Teja Devarakonda,** *Joie Yeahuay Wu, Yi Ren Fung, Madalina Fiterau*  
+[PDF](http://proceedings.mlr.press/v106/devarakonda19a/devarakonda19a.pdf)  
+**Surya Teja Devarakonda,** *Joie Yeahuay Wu, Yi Ren Fung, Madalina Fiterau*    
 **Machine Learning for Healthcare Conference (MLHC)**, 2019, 53-65.
 
 #### 2018
