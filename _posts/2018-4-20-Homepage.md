@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-<img style="float" align="right" width="200" height="250" src="images/profile-pic.jpg">
+<img style="float" align="right" width="213" height="300" src="images/profile-pic.jpg">
 
 I am currently worknig as a Deep Learning Research Engineer at [Enlitic](https://www.enlitic.com/), where I am primarily working on deep learning applications of computer vision in radiology. My primary areas of interest are computer vision, explainable AI, and healthcare AI.
 
