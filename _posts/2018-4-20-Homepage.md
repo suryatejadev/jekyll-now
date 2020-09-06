@@ -12,8 +12,6 @@ Previously, I graduated from UMass Amherst (Spring 2019) with an M.S. degree in 
 
 I spent the summer of 2018 in the X-Ray division of GE Healthcare as a machine learning intern. Here, I worked on several computer vision applications in X-Ray under [Gireesha Rao](https://www.linkedin.com/in/gireesha-rao-05831a2).  
 
-I will be graduating in May 2019, and I am looking for full time opportunities. You can reach me at [suryatejadev@cs.umass.edu](mailto:suryatejadev@cs.umass.edu). 
-
 To know more about my academics, check out the [Resume](https://suryatejadev.github.io/resume/) page. 
 
 Some of my recent projects are described in the [Projects](https://suryatejadev.github.io/projects/) page.  

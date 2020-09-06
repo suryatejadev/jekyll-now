@@ -9,13 +9,21 @@ You can find my Resume [here](docs/resume.pdf) and CV [here](docs/cv.pdf)
 ### Education
 **University of Massachusetts Amherst** at Amherst, MA  
 *Master of Science* in COMPUTER SCIENCE  
-Fall 2017 - Present  
+Sept 2017 - May 2019  
+**GPA:** 4.00 / 4.00
 
 **India Institute of Technology Hyderabad** at Hyderabad, India  
 *Bachelor of Technology (Honors)* in ELECTRICAL ENGINEERING  
-Fall 2013 - Spring 2017
+Aug 2013 - May 2017
 
 ### Publications
+#### 2019
+- **FLARe: Forecasting by Learning Anticipated Representations**  
+[LINK](https://arxiv.org/abs/1904.08930)
+[PDF](http://proceedings.mlr.press/v106/devarakonda19a/devarakonda19a.pdf)
+**Surya Teja Devarakonda,** *Joie Yeahuay Wu, Yi Ren Fung, Madalina Fiterau*  
+**Machine Learning for Healthcare Conference (MLHC)**, 2019, 53-65.
+
 #### 2018
 - **Amplitude-scan Classification using Artificial Neural Networks**
 [LINK](https://www.nature.com/articles/s41598-018-31021-4) 
